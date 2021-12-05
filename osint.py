@@ -7,7 +7,6 @@ import time
 import termcolor
 import colored
 from tqdm import tqdm
-import pyfiglet
 
 def banner():
 
