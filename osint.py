@@ -134,7 +134,7 @@ def main():
     print('[1]OsintIG')
     print('[2]OsintYt')
     print('[3]Out')
-    print('  ')
+
     pill = input('[<]Pillih salah satu :')
 
     if pill == '1':
