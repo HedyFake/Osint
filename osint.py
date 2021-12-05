@@ -141,6 +141,8 @@ def main():
         ig()
     elif pill == "2":
         yt()
+    elif pill == "3":
+         os.system('exit') 
 
     else:
         os.system('clear')
