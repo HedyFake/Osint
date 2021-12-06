@@ -7,7 +7,7 @@ OSINT adalah pengumpulan dan analisis informasi yang dikumpulkan dari publik, at
 sudo apt-get install git
 git clone https://github.com/HedyFake/Osint.git
 cd Osint
-sh install.sh 
+pip install -r requirements
 sudo python3 osint.py
 ```
  # Tampilan Awal
